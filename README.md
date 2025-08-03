@@ -1,3 +1,2 @@
 # My-Minin-Weather-App
 This is My First HTML,CSS &amp; JavaScript Weather web aplication Please Try It 😊
-folder-name/Images.txt
